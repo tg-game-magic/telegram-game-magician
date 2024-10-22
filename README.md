@@ -29,7 +29,7 @@ Telegram game robot aggregation software. TG airdrops mini game robots with game
 Account ->Add Account ->Retrieve Account Information ->Add Obtained Field Values (query_i, token...) ->Add Proxy (optional) ->Save  
 2. Return to the main page and click "Start" to proceed
 > Capture account field reference: https://www.youtube.com/watch?v=E21K8Eh3o-g   
-> Proxy format: http://username:password @proxyip:proxyport  
+> Proxy format: http://username:password@proxyip:proxyport  
 >  
 ## Support
 Telegram group:[ https://t.me/click_helper ]( https://t.me/click_helper )   
