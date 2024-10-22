@@ -5,14 +5,14 @@
 Telegram game robot aggregation software. TG airdrops mini game robots with game scripts that can automatically log in, complete daily tasks, and play games automatically. Multiple accounts can be configured to hang up simultaneously.  
    
 ## Features  
--Support multiple games to hang up simultaneously 
--Support multi account configuration 
--Support proxy configuration 
--Support real-time log viewing 
--Chinese English interface 
--24-hour automatic loop hanging up 
--Currently free 
--Simple configuration 
+- Support multiple games to hang up simultaneously 
+- Support multi account configuration 
+- Support proxy configuration 
+- Support real-time log viewing 
+- Chinese English interface 
+- 24-hour automatic loop hanging up 
+- Currently free 
+- Simple configuration 
    
 ## Supported games
 - Blum
